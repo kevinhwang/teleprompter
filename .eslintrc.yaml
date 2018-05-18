@@ -1,0 +1,10 @@
+extends:
+  - react-app
+  - prettier
+  - prettier/react
+plugins:
+  - prettier
+rules:
+  semi:
+    - error
+    - never

@@ -1,0 +1,27 @@
+.app {
+  display: grid;
+  padding: 2.5em;
+  text-align: center;
+  justify-items: center;
+}
+
+.controls {
+  align-items: center;
+  display: grid;
+  justify-content: center;
+  grid-auto-flow: column;
+  grid-column-gap: 1em;
+  grid-template-columns: repeat(auto-fill, minmax(10em, .5fr));
+}
+
+.githubLink {
+  font-size: xx-large;
+}
+
+a.githubLink {
+  color: white;
+}
+
+a.githubLink:hover {
+  color: lightgrey;
+}
