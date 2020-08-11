@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/teleprompter/static/css/main.2245b325.chunk.css",
+    "main.js": "/teleprompter/static/js/main.9ad9cf8e.chunk.js",
+    "main.js.map": "/teleprompter/static/js/main.9ad9cf8e.chunk.js.map",
+    "runtime-main.js": "/teleprompter/static/js/runtime-main.bda78d08.js",
+    "runtime-main.js.map": "/teleprompter/static/js/runtime-main.bda78d08.js.map",
+    "static/js/2.1e3002a6.chunk.js": "/teleprompter/static/js/2.1e3002a6.chunk.js",
+    "static/js/2.1e3002a6.chunk.js.map": "/teleprompter/static/js/2.1e3002a6.chunk.js.map",
+    "index.html": "/teleprompter/index.html",
+    "precache-manifest.2d36435a69bf87eb7a4994cd3a00787a.js": "/teleprompter/precache-manifest.2d36435a69bf87eb7a4994cd3a00787a.js",
+    "service-worker.js": "/teleprompter/service-worker.js",
+    "static/css/main.2245b325.chunk.css.map": "/teleprompter/static/css/main.2245b325.chunk.css.map",
+    "static/js/2.1e3002a6.chunk.js.LICENSE.txt": "/teleprompter/static/js/2.1e3002a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bda78d08.js",
+    "static/js/2.1e3002a6.chunk.js",
+    "static/css/main.2245b325.chunk.css",
+    "static/js/main.9ad9cf8e.chunk.js"
+  ]
+}
